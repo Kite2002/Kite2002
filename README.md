@@ -1,5 +1,5 @@
 # 💫 About Me:
-React Native Developer Intern @Doeasily<br>Former Software Developer Intern @MakeMeGlobal.org<br>
+React Native Developer Intern @DoEasily<br>Former Software Developer Intern @MakeMeGlobal.org<br>
 
 
 ## 🌐 Socials:
