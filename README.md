@@ -1,2 +1,2 @@
 Former React Native Developer @TapHealth , @DoEasily
-📧 Email: dbatabyal2018@gmail.com
+<br>📧 Email: dbatabyal2018@gmail.com
